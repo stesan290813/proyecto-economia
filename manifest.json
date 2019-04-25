@@ -1,0 +1,32 @@
+{
+  "name": "Rapidito",
+  "short_name": "Rapidito",
+  "start_url": "index.php",
+  "display": "fullscreen",
+  "theme_color": "#146eb4",
+  "background_color": "white",
+  "orientation":"portrait",
+  "description": "Proyecto Final - Economia Digital",
+  "icons": [
+    {
+      "src": "img/Rapidito.jpeg",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icon64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+]
+}
